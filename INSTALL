@@ -1,0 +1,9 @@
+Building GlobalBusinessrevolution
+
+See doc/readme-qt.rst for instructions on building GlobalBusinessrevolution-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GlobalBusinessrevolution.
+
+See doc/build-*.txt for instructions on building globalbusinessrevolutiond,
+the intended-for-services, no-graphical-interface, reference
+implementation of GlobalBusinessrevolution.
