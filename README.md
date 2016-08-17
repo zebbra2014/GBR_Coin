@@ -1,7 +1,7 @@
 GlobalBusinessrevolution integration/staging tree
 ================================
 
-http://www.globalbusinessrevolution.org
+http://www.globalbusinessrevolution.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 GlobalBusinessrevolution Developers
